@@ -1,0 +1,9 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:700);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:800);
+
+ul.list2 .count {behavior:url(js/PIE.htc); position:relative;}
+
+a.corner:hover {
+		filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+}
